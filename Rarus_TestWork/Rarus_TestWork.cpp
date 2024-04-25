@@ -1,10 +1,8 @@
-﻿#include <iostream>
-#include <sstream>
+﻿#include <sstream>
 #include <algorithm>
 #include <unordered_map>
 #include <vector>
 #include <cassert>
-#include <iterator>
 
 std::string GetMostFrequentNumbers(std::string const& sequence)
 {
